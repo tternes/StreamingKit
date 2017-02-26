@@ -137,6 +137,7 @@
             @"video/mp4": @(kAudioFileMPEG4Type),
             @"audio/caf": @(kAudioFileCAFType),
             @"audio/x-caf": @(kAudioFileCAFType),
+            @"audio/x-aac": @(kAudioFileAAC_ADTSType),
             @"audio/aac": @(kAudioFileAAC_ADTSType),
             @"audio/aacp": @(kAudioFileAAC_ADTSType),
             @"audio/ac3": @(kAudioFileAC3Type),
